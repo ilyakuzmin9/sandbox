@@ -34,3 +34,5 @@ with open('output_files/newbigfeed.xml', 'w') as f:
 
 # # Parse the modified XML string back into an ElementTree object for further processing if needed
 # root = ET.fromstring(xml_string)
+
+print("all done!")
