@@ -44,3 +44,5 @@ print("this is master branch")
 print("new feature created")
 
 print("this is feature_branch_2")
+
+print("this is commit in feature_branch_2")
