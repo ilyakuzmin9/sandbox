@@ -36,3 +36,5 @@ with open('output_files/newbigfeed.xml', 'w') as f:
 # root = ET.fromstring(xml_string)
 
 print("all done!")
+
+print("check commit")
