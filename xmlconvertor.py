@@ -36,21 +36,3 @@ with open('output_files/newbigfeed.xml', 'w') as f:
 # root = ET.fromstring(xml_string)
 
 print("all done!")
-
-print("check commit")
-
-print("this is master branch")
-
-print("new feature created")
-
-print("this is feature_branch_2")
-
-print("this is commit in feature_branch_2")
-
-print("this is commit in feature_branch_001")
-
-print("this is commit_2 in feature_branch_001")
-
-print("this is commit_1 in feature_branch_002")
-
-print("this is commit_2 in feature_branch_002")
