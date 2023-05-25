@@ -1,7 +1,7 @@
 import json
 import csv
 
-json_name = 'input_files/1chr/response-jan-Trafic-f1.json'
+json_name = 'input_files/1chr/feb-traffic_24-05.json'
 json_file = open(json_name)
 read_file = json.loads(json_file.read())
 
